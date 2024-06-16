@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|solutionrelative:OpenGL_Setup_2024\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\shaders\\vertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|solutionrelative:OpenGL_Setup_2024\\src\\shaders\\vertex.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\shaders\\fragment.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|solutionrelative:OpenGL_Setup_2024\\src\\shaders\\fragment.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\Shaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|solutionrelative:OpenGL_Setup_2024\\src\\Shaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\Headers\\Shaders.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BDF1EC3-2009-4869-9842-76B28A97E600}|OpenGL_Setup_2024\\OpenGL_Setup_2024.vcxproj|solutionrelative:OpenGL_Setup_2024\\Headers\\Shaders.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shaders.h",
+              "DocumentMoniker": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\Headers\\Shaders.h",
+              "RelativeDocumentMoniker": "OpenGL_Setup_2024\\Headers\\Shaders.h",
+              "ToolTip": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\Headers\\Shaders.h",
+              "RelativeToolTip": "OpenGL_Setup_2024\\Headers\\Shaders.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T22:22:28.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shaders.cpp",
+              "DocumentMoniker": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\Shaders.cpp",
+              "RelativeDocumentMoniker": "OpenGL_Setup_2024\\src\\Shaders.cpp",
+              "ToolTip": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\Shaders.cpp",
+              "RelativeToolTip": "OpenGL_Setup_2024\\src\\Shaders.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T22:17:38.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fragment.shader",
+              "DocumentMoniker": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\shaders\\fragment.shader",
+              "RelativeDocumentMoniker": "OpenGL_Setup_2024\\src\\shaders\\fragment.shader",
+              "ToolTip": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\shaders\\fragment.shader",
+              "RelativeToolTip": "OpenGL_Setup_2024\\src\\shaders\\fragment.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-06-08T22:18:25.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vertex.shader",
+              "DocumentMoniker": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\shaders\\vertex.shader",
+              "RelativeDocumentMoniker": "OpenGL_Setup_2024\\src\\shaders\\vertex.shader",
+              "ToolTip": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\shaders\\vertex.shader",
+              "RelativeToolTip": "OpenGL_Setup_2024\\src\\shaders\\vertex.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-06-08T22:16:51.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "OpenGL_Setup_2024\\src\\Application.cpp",
+              "ToolTip": "D:\\Learn\\OpenGL\\repos\\OpenGL\\OpenGL_Template_2024\\OpenGL_Setup_2024\\src\\Application.cpp",
+              "RelativeToolTip": "OpenGL_Setup_2024\\src\\Application.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T01:37:40.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
